@@ -12,7 +12,7 @@ permissions:
 
 env:
   INSTANCE: 'Writerside/Journal'
-  ARTIFACT: 'webHelpJournal2-all.zip'
+  ARTIFACT: 'webHelpJOURNAL2-all.zip'
   DOCKER_VERSION: '241.18775'
 
 jobs:
