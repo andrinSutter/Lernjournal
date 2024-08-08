@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element topic="Empty-MD-Topic.md">
+        <toc-element topic="ITP81Base.md">
+            <toc-element topic="05-09-August-2024.md"/>
+        </toc-element>
+    </toc-element>
+</instance-profile>
