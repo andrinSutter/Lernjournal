@@ -1,3 +1,0 @@
-# 2. Lehrjahr
-
-Start typing here...

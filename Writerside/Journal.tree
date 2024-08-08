@@ -4,12 +4,13 @@
 
 <instance-profile id="Journal"
                  name="Journal"
-                 start-page="starter.md">
+                 start-page="Section-Starting-Page.topic">
 
-    <toc-element topic="starter.md"/>
-    <toc-element topic="Empty-MD-Topic.md">
-        <toc-element topic="ITP81Base.md">
-            <toc-element topic="05-09-August-2024.md"/>
+    <toc-element topic="Section-Starting-Page.topic">
+        <toc-element topic="2-Lehrjahr.topic">
+            <toc-element topic="ITP81Base.topic">
+                <toc-element topic="05-09-August-2024.md"/>
+            </toc-element>
         </toc-element>
     </toc-element>
 </instance-profile>

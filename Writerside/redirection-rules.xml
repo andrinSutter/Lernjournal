@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="6e6ff71d">
+        <description>Created after removal of "Übersicht" from Journal</description>
+        <accepts>starter.html</accepts>
+    </rule>
+    <rule id="7457b9e">
+        <description>Created after removal of "Übersicht" from Journal</description>
+        <accepts>Übersicht.html</accepts>
+    </rule>
+    <rule id="54405977">
+        <description>Created after removal of "ITP81Base" from Journal</description>
+        <accepts>ITP81Base.html</accepts>
+    </rule>
+    <rule id="11928e4f">
+        <description>Created after removal of "2. Lehrjahr" from Journal</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+</rules>
