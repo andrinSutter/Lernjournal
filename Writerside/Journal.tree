@@ -7,8 +7,8 @@
                  start-page="Section-Starting-Page.topic">
 
     <toc-element topic="Section-Starting-Page.topic" toc-title="Journal">
-        <toc-element topic="2-Lehrjahr.topic">
-            <toc-element topic="ITP81Base.topic">
+        <toc-element toc-title="2. Lehrjahr">
+            <toc-element toc-title="ITP81Base">
                 <toc-element topic="05-09-August-2024.md"/>
             </toc-element>
         </toc-element>

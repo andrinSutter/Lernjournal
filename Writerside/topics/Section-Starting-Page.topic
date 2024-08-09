@@ -15,7 +15,7 @@
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
             <a href="05-09-August-2024.md" type="location" summary="Einträge der aktuellen Woche">Neuste Woche</a>
-            <a href="ITP81Base.topic" type="search" summary="Einträge zur aktuelle Abteilung">Aktuelle Abteilung</a>
+            <a href="05-09-August-2024.md" type="search" summary="Einträge zur aktuelle Abteilung">Aktuelle Abteilung</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
