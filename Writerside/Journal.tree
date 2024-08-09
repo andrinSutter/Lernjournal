@@ -6,7 +6,7 @@
                  name="Journal"
                  start-page="Section-Starting-Page.topic">
 
-    <toc-element topic="Section-Starting-Page.topic">
+    <toc-element topic="Section-Starting-Page.topic" toc-title="Journal">
         <toc-element topic="2-Lehrjahr.topic">
             <toc-element topic="ITP81Base.topic">
                 <toc-element topic="05-09-August-2024.md"/>

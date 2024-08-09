@@ -5,6 +5,7 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Übersicht" id="Section-Starting-Page">
 
+    <title instance="Journal">Journal</title>
     <section-starting-page>
         <title>Lernjournal Andrin</title>
         <description>
