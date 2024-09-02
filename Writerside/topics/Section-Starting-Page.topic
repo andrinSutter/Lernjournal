@@ -14,14 +14,17 @@
 
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
-            <a href="12-16-August-2024.md" type="location" summary="Einträge der aktuellen Woche">Neuste Woche</a>
-            <a href="05-09-August-2024.md" type="search" summary="Einträge der Letzen Woche">Letzte Woche</a>
+            <a href="02-06-August-2024.md" type="location" summary="Einträge der aktuellen Woche">Neuste Woche</a>
+            <a href="26-30-August-2024.md" type="search" summary="Einträge der Letzen Woche">Letzte Woche</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>Get Started</title>
-            <a href="12-16-August-2024.md" summary="Einträge zur aktuellen Woche"></a>
+            <a href="02-06-August-2024.md"  summary="Einträge zur Wochen von 02-06 August"></a>
+            <a href="26-30-August-2024.md"  summary="Einträge zur Wochen von 26-30 August"></a>
+            <a href="19-08-2024.md" summary="Einträge zur Wochen von 19-18 August"></a>
+            <a href="12-16-August-2024.md" summary="Einträge zur Woche von 12-16 August"></a>
             <a href="05-09-August-2024.md" summary="Einträge zur Woche von 5-9 August"></a>
         </primary>
 
