@@ -4,4 +4,7 @@
 
 Heute habe ich die letzten Schachfiguren fertig gezeichnet und fast alle von einer Farbe gedruckt. Ich konnte nicht alle fertig drucken da die Drucker im Makerspace gerade gebraucht werden. 
 
-## Dienstag 17 September    
+## Dienstag 17 September
+
+Heute hatten wir den dritten Austausch mit dem Smartfeld. Wir konnten die verschiedenen Drahtlosnetzwerke besprechen und bekamen eine Einführung zu MIT App Inventor und MQTT bekomen damit können wir Apps für den Cube erstellen und mit ihm über das Internet kommunizieren.
+Es war nicht schwer zu verstehen jedoch hat einiges nicht funktioniert. Liegt aber höchst wahrscheinlich an der Bühler Infrastruktur.
