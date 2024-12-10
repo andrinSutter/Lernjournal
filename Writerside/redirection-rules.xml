@@ -22,4 +22,8 @@
         <description>Created after removal of "2. Lehrjahr" from Journal</description>
         <accepts>Empty-MD-Topic.html</accepts>
     </rule>
+    <rule id="612733ac">
+        <description>Created after removal of "LA11" from Journal</description>
+        <accepts>LA11.html</accepts>
+    </rule>
 </rules>
