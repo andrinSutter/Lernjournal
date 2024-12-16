@@ -6,3 +6,8 @@ Heute haben wir richtig in die neue Abteilung LA11 wir konnten schon einiges err
 
 ## Dienstag 10 Dezember
 
+Heute haben wir den grossen Teil der Informations- und Planungsphase gemacht. Da wir Heute auch noch ein Gespräch mit Tabitha führen konnten, hatten wir genug Informationen um den grössten Teil zu 
+
+## Freitag 13 Dezember
+
+Wir haben Heute schon ein paar Anforderung die wichtig für Tabitha sind erledigt.
