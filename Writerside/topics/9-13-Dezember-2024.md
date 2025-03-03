@@ -10,4 +10,4 @@ Heute haben wir den grossen Teil der Informations- und Planungsphase gemacht. Da
 
 ## Freitag 13 Dezember
 
-Wir haben Heute schon ein paar Anforderung die wichtig für Tabitha sind erledigt.
+Wir haben Heute schon ein paar Anforderung die wichtig für Tabitha sind erledigt. Ich bin bei der Validierung 
